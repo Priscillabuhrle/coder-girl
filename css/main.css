@@ -1,0 +1,36 @@
+.azul{
+	background-image: url(../img/home.jpg);
+	padding: 10% 20% 10% 20%;
+}
+.blanco{
+	color: white;
+}
+.textopris{
+	padding: 5% 0% 0 6%;
+}
+.dosfondo{
+	padding: 5% 5% 5% 5%;
+}
+/*tres*/
+.treshac{
+	max-width: 100%;
+}
+.tresamarillo{
+	background-color: #FCFF0E;
+	padding: 5% 5% 5% 5%;
+}
+/*parte 4*/
+.cuatro{
+	padding: 5% 5% 5% 5%;
+}
+/*cinco*/
+.final{
+	color:yellow;
+}
+.cincoblanco{
+	color:white;
+}
+.cinco{
+	background-color: #3F82A1;
+	padding: 2% 0 2% 5%;
+}
