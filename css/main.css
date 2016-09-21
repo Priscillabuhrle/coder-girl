@@ -1,6 +1,16 @@
+/*parte dos*/
 .azul{
 	background-image: url(../img/home.jpg);
 	padding: 10% 20% 10% 20%;
+}
+nav{
+	margin-bottom: auto!important;
+}
+.btn-group{
+	background-color: #337AB7;
+}
+.btn{
+	color:white;
 }
 .blanco{
 	color: white;
@@ -10,6 +20,9 @@
 }
 .dosfondo{
 	padding: 5% 5% 5% 5%;
+}
+iframe{
+	max-width: 100%;
 }
 /*tres*/
 .treshac{
@@ -23,15 +36,7 @@
 .cuatro{
 	padding: 5% 5% 5% 5%;
 }
-.input-group{
-	padding: 2% 0% 2% 0%;
-}
-input{
-	padding: 2% 0% 2% 0%;
-}
-textarea{
-	padding: 2% 0% 2% 2%;
-}
+
 /*cinco*/
 .final{
 	color:yellow;
