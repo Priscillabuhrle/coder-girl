@@ -23,6 +23,15 @@
 .cuatro{
 	padding: 5% 5% 5% 5%;
 }
+.input-group{
+	padding: 2% 0% 2% 0%;
+}
+input{
+	padding: 2% 0% 2% 0%;
+}
+textarea{
+	padding: 2% 0% 2% 2%;
+}
 /*cinco*/
 .final{
 	color:yellow;
